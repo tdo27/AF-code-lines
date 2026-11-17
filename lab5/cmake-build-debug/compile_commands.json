@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\lab5.dir\\main.cpp.obj.modmap /FoCMakeFiles\\lab5.dir\\main.cpp.obj /FdCMakeFiles\\lab5.dir\\ /FS -c \"C:\\Users\\Piticar Andreea\\Desktop\\utcn-fa-main\\proiecteCLion\\lab5\\main.cpp\"",
+  "file": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/main.cpp",
+  "output": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/cmake-build-debug/CMakeFiles/lab5.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\MICROS~2\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1444~1.352\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\lab5.dir\\hash_table.cpp.obj.modmap /FoCMakeFiles\\lab5.dir\\hash_table.cpp.obj /FdCMakeFiles\\lab5.dir\\ /FS -c \"C:\\Users\\Piticar Andreea\\Desktop\\utcn-fa-main\\proiecteCLion\\lab5\\hash_table.cpp\"",
+  "file": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/hash_table.cpp",
+  "output": "C:/Users/Piticar Andreea/Desktop/utcn-fa-main/proiecteCLion/lab5/cmake-build-debug/CMakeFiles/lab5.dir/hash_table.cpp.obj"
+}
+]

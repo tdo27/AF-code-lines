@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\lab5.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\lab5.dir\hash_table.cpp.obj: dyndep
+

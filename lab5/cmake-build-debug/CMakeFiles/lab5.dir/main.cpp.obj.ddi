@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\lab5.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Piticar Andreea\\Desktop\\utcn-fa-main\\proiecteCLion\\lab5\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\lab5.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
